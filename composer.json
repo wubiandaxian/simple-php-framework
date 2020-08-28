@@ -2,12 +2,19 @@
     "name": "wubian/simple-php-framework",
     "description": "simple php framework",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "无边",
             "email": "760925513@qq.com"
         }
     ],
+    "keywords": [
+        "framework",
+        "php",
+    ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=7.0.0",
+    },
 }
