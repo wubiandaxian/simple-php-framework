@@ -9,12 +9,5 @@
             "email": "760925513@qq.com"
         }
     ],
-    "keywords": [
-        "framework",
-        "php"
-    ],
-    "minimum-stability": "dev",
-    "require": {
-       
-    },
+    "require": {}
 }
