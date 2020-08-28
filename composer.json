@@ -1,0 +1,13 @@
+{
+    "name": "wubian/spf",
+    "description": "simple php framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "无边",
+            "email": "760925513@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
