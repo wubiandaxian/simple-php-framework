@@ -11,10 +11,10 @@
     ],
     "keywords": [
         "framework",
-        "php",
+        "php"
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=7.0.0"
     },
 }
